@@ -40,3 +40,5 @@ azelia_banks = 'canceled'
 
 artists_list = [lizzo, nicki_minaj, benson_boone, azelia_banks]
 print(artists_list)
+
+# test two
